@@ -1,1 +1,1 @@
-# Linea-Regression-Model-Boston-Dataset
+# Linear-Regression-Model-Boston-Dataset
